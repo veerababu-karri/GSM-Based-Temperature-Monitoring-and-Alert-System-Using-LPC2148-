@@ -155,8 +155,3 @@ Data logging and analytics
 
 Watchdog-based fault recovery
 
-👨‍💻 Author
-
-Project Title: GSM-Based Temperature Monitoring and Alert System Using LPC2148
-Domain: Embedded Systems
-Controller: ARM7 LPC2148
